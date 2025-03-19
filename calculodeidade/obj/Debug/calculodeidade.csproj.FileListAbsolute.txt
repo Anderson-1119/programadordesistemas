@@ -1,0 +1,10 @@
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\bin\Debug\calculodeidade.exe.config
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\bin\Debug\calculodeidade.exe
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\bin\Debug\calculodeidade.pdb
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.csproj.AssemblyReference.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.FrmCalculodeidade.resources
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.Properties.Resources.resources
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.csproj.GenerateResource.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.exe
+C:\Users\anderson.osilva35\source\programadordesistemas\calculodeidade\obj\Debug\calculodeidade.pdb
