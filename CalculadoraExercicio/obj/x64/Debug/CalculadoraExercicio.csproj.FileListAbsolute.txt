@@ -1,0 +1,10 @@
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\bin\x64\Debug\CalculadoraExercicio.exe.config
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\bin\x64\Debug\CalculadoraExercicio.exe
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\bin\x64\Debug\CalculadoraExercicio.pdb
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.csproj.AssemblyReference.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.frmCalculadora.resources
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.Properties.Resources.resources
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.csproj.GenerateResource.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.exe
+C:\Users\anderson.osilva35\source\programadordesistemas\CalculadoraExercicio\obj\x64\Debug\CalculadoraExercicio.pdb

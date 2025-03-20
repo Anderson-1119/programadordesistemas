@@ -1,0 +1,10 @@
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\bin\x64\Debug\CalculodeDesconto.exe.config
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\bin\x64\Debug\CalculodeDesconto.exe
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\bin\x64\Debug\CalculodeDesconto.pdb
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.csproj.AssemblyReference.cache
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.frmCalculodedesconto.resources
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.Properties.Resources.resources
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.csproj.GenerateResource.cache
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.exe
+C:\Users\anderson.osilva35\source\repos\CalculodeDesconto\obj\x64\Debug\CalculodeDesconto.pdb
