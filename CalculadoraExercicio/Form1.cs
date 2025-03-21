@@ -86,8 +86,7 @@ namespace CalculadoraExercicio
         private void btnVirgula_Click(object sender, EventArgs e)
         {
             if (!txtValor.Text.Contains(","))
-                txtValor.Text = ",";
-
+                txtValor.Text += ",";
         }
 
         private void btnSoma_Click(object sender, EventArgs e)
@@ -144,6 +143,7 @@ namespace CalculadoraExercicio
             }
             txtValor.Text = Convert.ToString(Resultado);
         }
+
 
         private void btnC_Click(object sender, EventArgs e)
         {
