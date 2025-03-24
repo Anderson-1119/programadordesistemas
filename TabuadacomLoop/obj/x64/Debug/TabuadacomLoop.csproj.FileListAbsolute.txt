@@ -1,0 +1,10 @@
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\bin\x64\Debug\TabuadacomLoop.exe.config
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\bin\x64\Debug\TabuadacomLoop.exe
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\bin\x64\Debug\TabuadacomLoop.pdb
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.csproj.AssemblyReference.cache
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.frmTabuadaLoop.resources
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.Properties.Resources.resources
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.csproj.GenerateResource.cache
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.csproj.CoreCompileInputs.cache
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.exe
+C:\Users\anderson.osilva35\source\repos\TabuadacomLoop\obj\x64\Debug\TabuadacomLoop.pdb
